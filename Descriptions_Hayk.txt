@@ -1,0 +1,42 @@
+Laptops
+https://www.kaggle.com/ionaskel/laptop-prices
+
+In this dataset each observation is a laptop with its main charecteristics and price.
+It is interesting the main feautures of each laptop brand, the differences between brands. Prediction of price will be also useful. We can do different visualizations to compare laptops with respect to their price and find optimal one.
+
+Observations - 1302
+Features - 12 (Categorical - 8, Numerical - 3, Resolution(AxB) - 1)
+
+
+
+
+Happiness
+https://www.kaggle.com/unsdsn/world-happiness
+
+The happiness scores and rankings use data from the Gallup World Poll. The scores are based on answers to the main life evaluation question asked in the poll. We can answer the following questions
+    (a) What countries or regions rank the highest in overall happiness and each of the six factors contributing to happiness? 
+    (b) How did country ranks or scores change between the 2015 and 2016 as well as the 2016 and 2017   reports? 
+    (c) Did any country experience a significant increase or decrease in happiness?
+    (d) What makes people in a country happy?
+
+Observations - 158
+Features - 12 (2 Categorical, 10 Numeric)
+
+
+
+
+
+Married at First Sight
+https://www.kaggle.com/mrisdal/married-at-first-sight
+
+
+The Lifetime reality television show and social experiment, Married at First Sight, features men and women who sign up to marry a complete stranger they've never met before. Experts pair couples based on tests and interviews. After marriage, couples have only a few short weeks together to decide if they want to stay married or get a divorce. There have been 10 full seasons so far which provides interesting data to look at what factors may or may not play a role in their decisions at the end of eight weeks as well as longer-term outcomes since the show aired.
+
+It contains information about the couples, their decisions, and additional metadata.
+
+Observations - 68
+Features - 17 (There is also an information about which expert was present during the program)
+
+
+-------------------------------------------------------------------------------------------------
+
